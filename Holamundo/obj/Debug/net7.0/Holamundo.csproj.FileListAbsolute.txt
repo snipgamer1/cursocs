@@ -1,0 +1,15 @@
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\Holamundo\bin\Debug\net7.0\Holamundo.exe
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\Holamundo\bin\Debug\net7.0\Holamundo.deps.json
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\Holamundo\bin\Debug\net7.0\Holamundo.runtimeconfig.json
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\Holamundo\bin\Debug\net7.0\Holamundo.dll
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\Holamundo\bin\Debug\net7.0\Holamundo.pdb
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\Holamundo\obj\Debug\net7.0\Holamundo.csproj.AssemblyReference.cache
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\Holamundo\obj\Debug\net7.0\Holamundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\Holamundo\obj\Debug\net7.0\Holamundo.AssemblyInfoInputs.cache
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\Holamundo\obj\Debug\net7.0\Holamundo.AssemblyInfo.cs
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\Holamundo\obj\Debug\net7.0\Holamundo.csproj.CoreCompileInputs.cache
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\Holamundo\obj\Debug\net7.0\Holamundo.dll
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\Holamundo\obj\Debug\net7.0\refint\Holamundo.dll
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\Holamundo\obj\Debug\net7.0\Holamundo.pdb
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\Holamundo\obj\Debug\net7.0\Holamundo.genruntimeconfig.cache
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\Holamundo\obj\Debug\net7.0\ref\Holamundo.dll

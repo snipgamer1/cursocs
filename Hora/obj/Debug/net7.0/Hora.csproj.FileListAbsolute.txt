@@ -1,0 +1,15 @@
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\Hora\bin\Debug\net7.0\Hora.exe
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\Hora\bin\Debug\net7.0\Hora.deps.json
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\Hora\bin\Debug\net7.0\Hora.runtimeconfig.json
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\Hora\bin\Debug\net7.0\Hora.dll
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\Hora\bin\Debug\net7.0\Hora.pdb
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\Hora\obj\Debug\net7.0\Hora.csproj.AssemblyReference.cache
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\Hora\obj\Debug\net7.0\Hora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\Hora\obj\Debug\net7.0\Hora.AssemblyInfoInputs.cache
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\Hora\obj\Debug\net7.0\Hora.AssemblyInfo.cs
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\Hora\obj\Debug\net7.0\Hora.csproj.CoreCompileInputs.cache
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\Hora\obj\Debug\net7.0\Hora.dll
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\Hora\obj\Debug\net7.0\refint\Hora.dll
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\Hora\obj\Debug\net7.0\Hora.pdb
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\Hora\obj\Debug\net7.0\Hora.genruntimeconfig.cache
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\Hora\obj\Debug\net7.0\ref\Hora.dll
