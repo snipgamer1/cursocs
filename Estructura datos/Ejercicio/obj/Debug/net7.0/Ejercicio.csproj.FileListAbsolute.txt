@@ -1,0 +1,15 @@
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\Estructura datos\Ejercicio\bin\Debug\net7.0\Ejercicio.exe
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\Estructura datos\Ejercicio\bin\Debug\net7.0\Ejercicio.deps.json
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\Estructura datos\Ejercicio\bin\Debug\net7.0\Ejercicio.runtimeconfig.json
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\Estructura datos\Ejercicio\bin\Debug\net7.0\Ejercicio.dll
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\Estructura datos\Ejercicio\bin\Debug\net7.0\Ejercicio.pdb
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\Estructura datos\Ejercicio\obj\Debug\net7.0\Ejercicio.csproj.AssemblyReference.cache
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\Estructura datos\Ejercicio\obj\Debug\net7.0\Ejercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\Estructura datos\Ejercicio\obj\Debug\net7.0\Ejercicio.AssemblyInfoInputs.cache
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\Estructura datos\Ejercicio\obj\Debug\net7.0\Ejercicio.AssemblyInfo.cs
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\Estructura datos\Ejercicio\obj\Debug\net7.0\Ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\Estructura datos\Ejercicio\obj\Debug\net7.0\Ejercicio.dll
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\Estructura datos\Ejercicio\obj\Debug\net7.0\refint\Ejercicio.dll
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\Estructura datos\Ejercicio\obj\Debug\net7.0\Ejercicio.pdb
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\Estructura datos\Ejercicio\obj\Debug\net7.0\Ejercicio.genruntimeconfig.cache
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\Estructura datos\Ejercicio\obj\Debug\net7.0\ref\Ejercicio.dll
