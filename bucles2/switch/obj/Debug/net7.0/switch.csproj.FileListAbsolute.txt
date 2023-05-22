@@ -1,0 +1,15 @@
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\bucles2\switch\bin\Debug\net7.0\switch.exe
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\bucles2\switch\bin\Debug\net7.0\switch.deps.json
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\bucles2\switch\bin\Debug\net7.0\switch.runtimeconfig.json
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\bucles2\switch\bin\Debug\net7.0\switch.dll
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\bucles2\switch\bin\Debug\net7.0\switch.pdb
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\bucles2\switch\obj\Debug\net7.0\switch.csproj.AssemblyReference.cache
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\bucles2\switch\obj\Debug\net7.0\switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\bucles2\switch\obj\Debug\net7.0\switch.AssemblyInfoInputs.cache
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\bucles2\switch\obj\Debug\net7.0\switch.AssemblyInfo.cs
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\bucles2\switch\obj\Debug\net7.0\switch.csproj.CoreCompileInputs.cache
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\bucles2\switch\obj\Debug\net7.0\switch.dll
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\bucles2\switch\obj\Debug\net7.0\refint\switch.dll
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\bucles2\switch\obj\Debug\net7.0\switch.pdb
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\bucles2\switch\obj\Debug\net7.0\switch.genruntimeconfig.cache
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\bucles2\switch\obj\Debug\net7.0\ref\switch.dll
