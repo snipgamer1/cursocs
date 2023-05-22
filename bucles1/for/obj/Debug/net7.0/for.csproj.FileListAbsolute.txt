@@ -1,0 +1,15 @@
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\bucles1\for\bin\Debug\net7.0\for.exe
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\bucles1\for\bin\Debug\net7.0\for.deps.json
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\bucles1\for\bin\Debug\net7.0\for.runtimeconfig.json
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\bucles1\for\bin\Debug\net7.0\for.dll
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\bucles1\for\bin\Debug\net7.0\for.pdb
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\bucles1\for\obj\Debug\net7.0\for.csproj.AssemblyReference.cache
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\bucles1\for\obj\Debug\net7.0\for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\bucles1\for\obj\Debug\net7.0\for.AssemblyInfoInputs.cache
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\bucles1\for\obj\Debug\net7.0\for.AssemblyInfo.cs
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\bucles1\for\obj\Debug\net7.0\for.csproj.CoreCompileInputs.cache
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\bucles1\for\obj\Debug\net7.0\for.dll
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\bucles1\for\obj\Debug\net7.0\refint\for.dll
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\bucles1\for\obj\Debug\net7.0\for.pdb
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\bucles1\for\obj\Debug\net7.0\for.genruntimeconfig.cache
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\bucles1\for\obj\Debug\net7.0\ref\for.dll

@@ -1,0 +1,15 @@
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\bucles1\while\bin\Debug\net7.0\while.exe
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\bucles1\while\bin\Debug\net7.0\while.deps.json
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\bucles1\while\bin\Debug\net7.0\while.runtimeconfig.json
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\bucles1\while\bin\Debug\net7.0\while.dll
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\bucles1\while\bin\Debug\net7.0\while.pdb
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\bucles1\while\obj\Debug\net7.0\while.csproj.AssemblyReference.cache
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\bucles1\while\obj\Debug\net7.0\while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\bucles1\while\obj\Debug\net7.0\while.AssemblyInfoInputs.cache
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\bucles1\while\obj\Debug\net7.0\while.AssemblyInfo.cs
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\bucles1\while\obj\Debug\net7.0\while.csproj.CoreCompileInputs.cache
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\bucles1\while\obj\Debug\net7.0\while.dll
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\bucles1\while\obj\Debug\net7.0\refint\while.dll
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\bucles1\while\obj\Debug\net7.0\while.pdb
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\bucles1\while\obj\Debug\net7.0\while.genruntimeconfig.cache
+C:\Users\InvaderSam\Desktop\Proyectos\dotnet\bucles1\while\obj\Debug\net7.0\ref\while.dll
